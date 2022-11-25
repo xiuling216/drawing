@@ -1,1 +1,52 @@
-<mxfile host="app.diagrams.net" modified="2022-11-25T03:28:01.854Z" agent="5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" version="20.3.7" etag="Nuu0GutNp6ZAADos19Kv" type="github"><diagram id="qp0Fg-EbMJNpRZM-1Ea_">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-11-25T03:28:12.980Z" agent="5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="vh_4pUuNjG7eJ8ju49CF" version="20.3.7" type="github">
+  <diagram id="qp0Fg-EbMJNpRZM-1Ea_" name="第 1 页">
+    <mxGraphModel dx="1108" dy="-719" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="MCV_wOtKcuDntUsIu_Xb-1" value="" style="shape=mxgraph.flowchart.annotation_1;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="245" y="1994" width="251" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="MCV_wOtKcuDntUsIu_Xb-2" value="stack容器" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=18;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="332" y="1890" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="MCV_wOtKcuDntUsIu_Xb-3" value="数据元素" style="shape=mxgraph.flowchart.process;fontStyle=1;fillColor=#A9C4EB;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="280" y="2174" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="MCV_wOtKcuDntUsIu_Xb-4" value="数据元素" style="shape=mxgraph.flowchart.process;fontStyle=1;fillColor=#A9C4EB;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="279" y="2054" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="MCV_wOtKcuDntUsIu_Xb-5" value="数据元素" style="shape=mxgraph.flowchart.process;fontStyle=1;fillColor=#A9C4EB;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="279" y="2114" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="MCV_wOtKcuDntUsIu_Xb-6" value="栈底" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=16;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="190" y="2214" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="MCV_wOtKcuDntUsIu_Xb-7" value="栈顶" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=16;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="189" y="2024" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="MCV_wOtKcuDntUsIu_Xb-8" value="" style="edgeStyle=segmentEdgeStyle;endArrow=block;html=1;fontSize=16;endFill=1;jumpSize=13;strokeWidth=4;exitX=0.02;exitY=1.3;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="MCV_wOtKcuDntUsIu_Xb-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="230" y="1954" as="sourcePoint" />
+            <mxPoint x="328" y="2024" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MCV_wOtKcuDntUsIu_Xb-9" value="" style="edgeStyle=segmentEdgeStyle;endArrow=block;html=1;fontSize=16;endFill=1;jumpSize=13;strokeWidth=4;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="2024" as="sourcePoint" />
+            <mxPoint x="510" y="1954" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="390" y="1954" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MCV_wOtKcuDntUsIu_Xb-10" value="入栈 push()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="209" y="1929" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="MCV_wOtKcuDntUsIu_Xb-11" value="出栈 pop()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="409" y="1926" width="90" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
